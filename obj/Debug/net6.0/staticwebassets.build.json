@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "6gqdEeFIahOO0igrJVWrOoxxDysS9sWmUpmwBZ4aP0w=",
+  "Source": "foodshop",
+  "BasePath": "_content/foodshop",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
